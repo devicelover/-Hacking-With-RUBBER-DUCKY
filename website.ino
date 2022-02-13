@@ -1,3 +1,6 @@
+//by Voldebug.in
+//Open Website
+
 #include "Keyboard.h"
 
 void typeKey(int key)
