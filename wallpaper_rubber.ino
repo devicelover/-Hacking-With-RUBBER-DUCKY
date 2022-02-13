@@ -1,3 +1,6 @@
+//By Voldebug
+//wallpaper Prank
+
 #include "Keyboard.h"
 
 void typeKey(int key)
